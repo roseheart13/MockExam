@@ -1,0 +1,14 @@
+﻿'MockExam.exe' (Win32): Loaded 'C:\Users\Rutha\source\repos\MockExam\Debug\MockExam.exe'. Symbols loaded.
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2c80 has exited with code 0 (0x0).
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'MockExam.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x1e78 has exited with code 0 (0x0).
+The thread 0x4ee0 has exited with code 0 (0x0).
+The program '[6208] MockExam.exe' has exited with code 0 (0x0).
